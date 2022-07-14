@@ -1,21 +1,15 @@
-# Salesforce Devtools - Powerful Tools for SFDC Developer
+# Xiaoshouyi Devtools - Powerful Tools for Xiaoshouyi Developer
 
-[Salesforce DevTools](https://www.xgeek.net/salesforce/tesforce-for-google-chrome/) is a Chrome extension for Salesforce developer, based on everything we need in Salesforce development, supports:
+[Xiaoshouyi DevTools] is a Chrome extension for Xiaoshouyi developer, based on everything we need in Xiaoshouyi development, supports:
 
-- [Query Editor, generating SOQL by mouse click, exporting query result to Excel](#1-query-editor)
+- [Query Editor, generating SOQL by mouse click](#1-query-editor)
 - [Show/Hide field API name on object detail page](#2-showhide-api-name)
 - [Exporting Object Fields API Reference as Excel](#3-exporting-object-fields-api-reference)
-- [Exporting Salesforce data model (ERDs) as svg](#4-exporting-salesforce-data-model-erds)
-- [Exporting Page Layout Definitions as Excel](#5-exporting-object-page-layout-definitions)
-- [Exporting List View Definitions as Excel](#6-exporting-object-list-view-definitions)
-- [Apex Code Generator, Generating test data Apex Code](#7-apex-code-generator)
-- [Objects Search, quickly access to new record page, listview page and object setting page](#8-objects-search)
-- [Object Fields Search, quickly search all fields and show its data usage](#9-object-fields)
-- [Powerful Debug Log search and viewer](#10-debug-log-search-and-viewer)
-- [All check on profile edit and field permission edit page (Only Classic)](#11-all-check)
-- [Mass edit, mass delete, mass clone custom fields (Only Classic)](#12-mass-edit-custom-fields)
+- [Exporting Xiaoshouyi data model (ERDs) as svg](#4-exporting-salesforce-data-model-erds)
+- [Objects Search, quickly access to listview page and object setting page](#8-objects-search)
+- [Object Fields Search, quickly search all fields ](#9-object-fields)
 
-![Saleforce-DevTools](https://user-images.githubusercontent.com/5466487/60065045-7435e880-973d-11e9-9c3b-4e01268a589a.gif)
+![Xiaoshouyi-DevTools](https://user-images.githubusercontent.com/5466487/60065045-7435e880-973d-11e9-9c3b-4e01268a589a.gif)
 
 
 ## Install
