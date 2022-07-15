@@ -1,4 +1,4 @@
-# Xiaoshouyi Devtools - Powerful Tools for Xiaoshouyi Developer
+# Xiaoshouyi DevTools - Powerful Tools for Xiaoshouyi Developer
 
 [Xiaoshouyi DevTools] is a Chrome extension for Xiaoshouyi developer, based on everything we need in Xiaoshouyi development, supports:
 
