@@ -1,12 +1,12 @@
 # Xiaoshouyi DevTools - Powerful Tools for Xiaoshouyi Developer
 
-[Xiaoshouyi DevTools](https://www.xgeek.net/salesforce/tesforce-for-google-chrome/) is a Chrome extension for Xiaoshouyi developer, based on everything we need in Xiaoshouyi development, supports:
+[Xiaoshouyi DevTools](https://www.xgeek.net/Xiaoshouyi/tesforce-for-google-chrome/) is a Chrome extension for Xiaoshouyi developer, based on everything we need in Xiaoshouyi development, supports:
 
 - [Login Assistant](#1-quick-one-click-login)
 - [Query Editor, generating SQL by mouse click, exporting query result to Excel](#2-query-editor)
 - [Show/Hide field API name on object detail page](#3-showhide-api-name)
 - [Exporting Object Fields API Reference as Excel](#4-exporting-object-fields-api-reference)
-- [Exporting Salesforce data model (ERDs) as svg](#5-exporting-salesforce-data-model-erds)
+- [Exporting Xiaoshouyi data model (ERDs) as svg](#5-exporting-xiaoshouyi-data-model-erds)
 - [Object Fields query](#6-object-Fields-query)
 - [Shortcut button](#7-shortcut-button)
 - [Useful Links](#8-useful-links)
