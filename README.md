@@ -1,6 +1,6 @@
 # Xiaoshouyi DevTools - Powerful Tools for Xiaoshouyi Developer
 
-[Xiaoshouyi DevTools]() is a Chrome extension for Xiaoshouyi developer, based on everything we need in Xiaoshouyi development, supports:
+[Xiaoshouyi DevTools](https://github.com/jntrixpro/XiaoshouyiDevTools-Public) is a Chrome extension for Xiaoshouyi developer, based on everything we need in Xiaoshouyi development, supports:
 
 - [Login Assistant](#1-quick-one-click-login)
 - [Query Editor, generating SQL by mouse click, exporting query result to Excel](#2-query-editor)
