@@ -16,7 +16,7 @@
 
 ## Install
 
-![Install from Chrome Web Store](https://user-images.githubusercontent.com/5466487/60063182-04bcfa80-9737-11e9-8561-12df9d7a39fc.png)(https://chrome.google.com/webstore/detail/xiaoshouyi-devtools/cmnohldckfdbfoliehjambmndnfbbmnp?hl=zh-CN)
+[![Install from Chrome Web Store](https://user-images.githubusercontent.com/5466487/60063182-04bcfa80-9737-11e9-8561-12df9d7a39fc.png)](https://chrome.google.com/webstore/detail/xiaoshouyi-devtools/cmnohldckfdbfoliehjambmndnfbbmnp?hl=zh-CN)
 
 
 ## Usage
